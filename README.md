@@ -1,0 +1,1 @@
+Netflix Clone using React, TMDB API, and Firebase as a backend
